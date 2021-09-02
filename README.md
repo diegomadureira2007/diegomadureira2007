@@ -34,7 +34,7 @@
 </div>
   <hr>
  <a href="https://www.linkedin.com/in/di%C3%AAgo-r-madureira-19025711b/" target="_blank">
-  <img align="center" alt="Diego-LINKEDIN" height="60" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+  <img align="center" alt="Diego-LINKEDIN" height="60" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank">
  </a>
  
 
