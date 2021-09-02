@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Diêgo Madureira 👋
 
-#### Apaixonado em Tecnologias de Desenvolvimento WEB e Inovação  
+#### Apaixonado por Inovação e Tecnologias em Desenvolvimento WEB  
 
  <img align="right" width="300" height="168" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
  
