@@ -30,10 +30,12 @@
   <a href="https://github.com/diegomadureira2007">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diegomadureira2007&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomadureira2007&layout=compact&theme=dark">
+ </a>
 </div>
   <hr>
-  <a href="https://www.linkedin.com/in/di%C3%AAgo-r-madureira-19025711b/" target="_blank">
-  <img align="center" alt="Diego-LINKEDIN" height="70" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+ <a href="https://www.linkedin.com/in/di%C3%AAgo-r-madureira-19025711b/" target="_blank">
+  <img align="center" alt="Diego-LINKEDIN" height="60" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+ </a>
  
 
 
